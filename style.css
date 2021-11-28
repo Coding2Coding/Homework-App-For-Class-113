@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(rgb(204, 232, 255) 0%, rgb(232, 214, 255) 100%);
+    color: lightcoral;
+    font-family: Calibri;
+}
+
+#title {
+    color: lightskyblue;
+    background: #ffffff;
+    border-color: lightskyblue;
+    border-radius: 14px;
+    font-size: 20px;
+}
